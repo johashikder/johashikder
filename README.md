@@ -27,7 +27,7 @@ I am a **Statistics undergraduate** with a strong passion for **data analytics, 
 
 ## 📫 Let's Connect:
 - 📩 **Email:** johashikder25@gmail.com  
-- 🌍 **LinkedIn:** [LinkedIn Profile](johashikderhttps://www.linkedin.com/in/md-samsujjoha-b88b0321a/))  
+- 🌍 **LinkedIn:** [LinkedIn Profile](johashikderhttps://www.linkedin.com/in/md-samsujjoha-b88b0321a/)  
 - 📂 **Portfolio:** [Portfolio Website](https://johashikder.github.io) (Coming Soon!)  
 
 ---
