@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hello, I'm Johashikder! 
 
-<!--
-**johashikder/johashikder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst | R | Python | SQL | Excel 
 
-Here are some ideas to get you started:
+I am a **Statistics undergraduate** with a strong passion for **data analytics, machine learning, and bioinformatics**. I love working with data, uncovering insights, and building professional visualizations. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools:
+- **Programming:** Python, R, SQL, Excel  
+- **Data Analytics:** Pandas, NumPy, dplyr, ggplot2  
+- **Machine Learning:** Scikit-learn, XGBoost, Random Forest  
+- **Databases:** MySQL, PostgreSQL  
+- **Visualization:** Matplotlib, Seaborn, Power BI, Tableau  
+
+## 📌 Featured Projects:
+🚀 **[Airline Review Sentiment Analysis](https://github.com/johashikder/airline-review-analysis)**  
+🔹 NLP-based sentiment analysis on airline customer reviews using R and visualization.  
+
+📊 **[Fraud Detection with Machine Learning](https://github.com/johashikder/fraud-detection)**  
+🔹 Built a fraud detection model using Random Forest & XGBoost.  
+
+🧬 **[Bioinformatics Data Analysis](https://github.com/johashikder/bioinformatics-project)**  
+🔹 Statistical & visual analysis of genomic datasets.  
+
+## 📊 GitHub Stats:
+![Johashikder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johashikder&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johashikder&layout=compact&theme=radical)  
+
+## 📫 Let's Connect:
+- 📩 **Email:** johashikder25@gmail.com  
+- 🌍 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/johashikder)  
+- 📂 **Portfolio:** [Portfolio Website](https://johashikder.github.io) (Coming Soon!)  
+
+---
+
+🔹 *I’m open to collaboration and freelance projects!* 🚀  
+💡 *Let’s explore data-driven solutions together!*  
