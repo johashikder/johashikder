@@ -8,8 +8,8 @@ I am a **Statistics undergraduate** with a strong passion for **data analytics, 
 - **Programming:** Python, R, SQL, Excel  
 - **Data Analytics:** Pandas, NumPy, dplyr, ggplot2  
 - **Machine Learning:** Scikit-learn, XGBoost, Random Forest  
-- **Databases:** MySQL, PostgreSQL  
-- **Visualization:** Matplotlib, Seaborn, Power BI, Tableau  
+- **Databases:** MySQL  
+- **Visualization:** Matplotlib, Seaborn 
 
 ## 📌 Featured Projects:
 🚀 **[Airline Review Sentiment Analysis](https://github.com/johashikder/airline-review-analysis)**  
@@ -27,7 +27,7 @@ I am a **Statistics undergraduate** with a strong passion for **data analytics, 
 
 ## 📫 Let's Connect:
 - 📩 **Email:** johashikder25@gmail.com  
-- 🌍 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/johashikder)  
+- 🌍 **LinkedIn:** [LinkedIn Profile](johashikderhttps://www.linkedin.com/in/md-samsujjoha-b88b0321a/))  
 - 📂 **Portfolio:** [Portfolio Website](https://johashikder.github.io) (Coming Soon!)  
 
 ---
